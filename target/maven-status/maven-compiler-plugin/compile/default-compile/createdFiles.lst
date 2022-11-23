@@ -1,0 +1,16 @@
+com\ltp\gradesubmission\entity\Grade.class
+com\ltp\gradesubmission\repository\CourseRepository.class
+com\ltp\gradesubmission\service\GradeService.class
+com\ltp\gradesubmission\repository\StudentRepository.class
+com\ltp\gradesubmission\service\CourseServiceImpl.class
+com\ltp\gradesubmission\service\StudentServiceImpl.class
+com\ltp\gradesubmission\entity\Student.class
+com\ltp\gradesubmission\GradeSubmissionApplication.class
+com\ltp\gradesubmission\web\GradeController.class
+com\ltp\gradesubmission\service\StudentService.class
+com\ltp\gradesubmission\service\CourseService.class
+com\ltp\gradesubmission\entity\Course.class
+com\ltp\gradesubmission\repository\GradeRepository.class
+com\ltp\gradesubmission\web\CourseController.class
+com\ltp\gradesubmission\web\StudentController.class
+com\ltp\gradesubmission\service\GradeServiceImpl.class
